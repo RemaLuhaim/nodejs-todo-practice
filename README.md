@@ -16,3 +16,5 @@ This is a simple practice project built while learning Node.js backend developme
 
 ## Purpose
 This project was built as part of backend development practice to understand routing, MVC structure, and server-side rendering using EJS.
+# nodejs-todo-practice
+A practice project built while learning Node.js backend development, implementing basic To-Do task management with Express and EJS.
